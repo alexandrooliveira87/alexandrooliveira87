@@ -1,4 +1,4 @@
-# Apresentação no GitHub de Alex
+# Apresentação 
 
 Olá! 👋 Sou Alex, um analista de requisitos e estudante de desenvolvimento de sistemas.
 
