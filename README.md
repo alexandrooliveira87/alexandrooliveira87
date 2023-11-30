@@ -1,6 +1,6 @@
 # Apresentação no GitHub de Alex
 
-Olá! 👋 Sou Alex, um analista de requitos e estudante de desenvolvimento de sistemas. 
+Olá! 👋 Sou Alex, um analista de requisitos e estudante de desenvolvimento de sistemas.
 
 ## Minhas Habilidades
 
@@ -16,7 +16,7 @@ Olá! 👋 Sou Alex, um analista de requitos e estudante de desenvolvimento de s
 
 ## Experiência Acadêmica e Profissional
 
-Sou formado Engenheiro da Computação e Especialista em Qualidade e Governança em TI. Apaixonado por BI e BIG Data. Atualmente, focado em Engenharia de Software. Ao mesmo tempo, trabalho como analista de negócio, aplicando conhecimentos práticos no ambiente corporativo.
+Sou formado em Engenharia da Computação e Especialista em Qualidade e Governança em TI. Apaixonado por BI e Big Data. Atualmente, focado em Engenharia de Software. Ao mesmo tempo, trabalho como analista de negócio, aplicando conhecimentos práticos no ambiente corporativo.
 
 ## Interesses
 
@@ -29,6 +29,6 @@ Sou formado Engenheiro da Computação e Especialista em Qualidade e Governança
 
 Fique à vontade para explorar meus projetos e entrar em contato. Estou sempre aberto a novas oportunidades de aprendizado e colaboração.
 
-- LinkedIn: [https://www.linkedin.com/in/eng-alexandrooliveira/)https://www.linkedin.com/in/eng-alexandrooliveira](#)
+- LinkedIn: [https://www.linkedin.com/in/eng-alexandrooliveira/](#)
 
 Vamos construir algo incrível juntos! 🚀
