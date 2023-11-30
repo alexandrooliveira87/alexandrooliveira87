@@ -1,6 +1,25 @@
+<!-- Dark Mode Styling -->
+<style>
+  body {
+    background-color: #1E1E1E; /* Cor de fundo escura */
+    color: #FFFFFF; /* Cor do texto */
+  }
+
+  /* Adapte as cores conforme necessário para os links e cabeçalhos */
+  a {
+    color: #4CAF50; /* Cor dos links */
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: #FFD700; /* Cor dos cabeçalhos */
+  }
+
+  /* Adapte conforme necessário para outros elementos Markdown */
+</style>
+
 # Apresentação no GitHub de Alex
 
-Olá! 👋 Sou Alex, um analista de negócio e estudante de desenvolvimento de sistemas baseado em Recife, Pernambuco. Tenho um grande interesse e paixão por tecnologia.
+Olá! 👋 Sou Alex, um analista de requitos e estudante de desenvolvimento de sistemas. 
 
 ## Minhas Habilidades
 
