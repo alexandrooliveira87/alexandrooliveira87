@@ -1,6 +1,6 @@
 # Apresentação 
 
-Olá! 👋 Sou Alex, um analista de requisitos e estudante de desenvolvimento de sistemas.
+Olá! Sou Alex, um analista de requisitos e estudante de desenvolvimento de sistemas.
 
 ## Minhas Habilidades
 
