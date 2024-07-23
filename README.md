@@ -24,6 +24,7 @@ Sou formado em Engenharia da Computação e Especialista em Qualidade e Governan
 - Desenvolvimento Back-End
 - Tecnologias Emergentes
 - Análise de Dados
+- Inovação
 
 ## Vamos Conectar!
 
@@ -31,4 +32,4 @@ Fique à vontade para explorar meus projetos e entrar em contato. Estou sempre a
 
 - LinkedIn: [https://www.linkedin.com/in/eng-alexandrooliveira/](#)
 
-Vamos construir algo incrível juntos! 🚀
+
