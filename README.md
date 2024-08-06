@@ -49,9 +49,9 @@ Fique à vontade para explorar meus projetos e entrar em contato. Estou sempre a
 
 ## Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?alexandrooliveira87&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexandrooliveira87&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?alexandrooliveira87&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrooliveira87&layout=compact&theme=radical)
 
 ---
 
