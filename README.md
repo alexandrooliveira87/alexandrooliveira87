@@ -42,7 +42,6 @@ Sou formado em **Engenharia da Computação** com especialização em **Qualidad
 Fique à vontade para explorar meus projetos e entrar em contato. Estou sempre aberto a novas oportunidades de aprendizado e colaboração.
 
 - LinkedIn: [Alexandro Oliveira](https://www.linkedin.com/in/eng-alexandrooliveira/)
-- GitHub: [GitHub](https://github.com/seu-usuario)
 - Email: [eng.alexandrooliveira@gmail.com](mailto:eng.alexandrooliveira@gmail.com)
 
 ---
