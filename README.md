@@ -1,10 +1,10 @@
-# 🌟 Apresentação
+# Apresentação
 
 Olá! Sou **Alex**, analista de Sistemas e estudante de desenvolvimento.
 
 ---
 
-## 🚀 Minhas Habilidades
+## Minhas Habilidades
 
 - **Análise de Negócio:** Experiência sólida em analisar requisitos de negócios e traduzi-los em soluções tecnológicas eficientes.
 - **Desenvolvimento de Sistemas:** Atualmente, estou aprimorando minhas habilidades em desenvolvimento de sistemas, explorando diversas tecnologias e frameworks.
@@ -12,7 +12,7 @@ Olá! Sou **Alex**, analista de Sistemas e estudante de desenvolvimento.
 
 ---
 
-## 📌 Projetos Destacados
+## Projetos Destacados
 
 - **Portal de Compras e Licitações:** Participação da equipe de implantação do Sistema de compras e contrações no Sesc Bahia.
 - **PE Integrado:** Melhorias no Sistema de Compras e Contratações do Estado de Pernambuco.
@@ -21,13 +21,13 @@ Olá! Sou **Alex**, analista de Sistemas e estudante de desenvolvimento.
 
 ---
 
-## 🎓 Experiência Acadêmica e Profissional
+## Experiência Acadêmica e Profissional
 
 Sou formado em **Engenharia da Computação** com especialização em **Qualidade e Governança em TI**, **MBA em Bussines Inteligence com ênfase em Big Data** e **Engenharia de software**, atualmente fazendo o curso de aperfeiçoamento em desenvolvimento no  **Senai SC - DEVinHouse - Farmácias CLAMED **. Trabalho como Analista de Sistemas no Sesc Pernambuco, aplicando conhecimentos práticos no ambiente corporativo.
 
 ---
 
-## 🌱 Interesses
+## Interesses
 
 - Desenvolvimento Front-End
 - Desenvolvimento Back-End
@@ -37,7 +37,7 @@ Sou formado em **Engenharia da Computação** com especialização em **Qualidad
 
 ---
 
-## 📫 Vamos Conectar!
+## Vamos Conectar!
 
 Fique à vontade para explorar meus projetos e entrar em contato. Estou sempre aberto a novas oportunidades de aprendizado e colaboração.
 
@@ -47,15 +47,15 @@ Fique à vontade para explorar meus projetos e entrar em contato. Estou sempre a
 
 ---
 
-## 🌟 Estatísticas do GitHub
+## Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?alexandrooliveira87&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?alexandrooliveira87&layout=compact&theme=radical)
 
 ---
 
-## 🛠️ Ferramentas e Tecnologias
+## Ferramentas e Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -68,7 +68,7 @@ Fique à vontade para explorar meus projetos e entrar em contato. Estou sempre a
 
 ---
 
-## ✨ Quote
+## Quote
 
 > "O único modo de fazer um excelente trabalho é amar o que você faz." – Steve Jobs
 
